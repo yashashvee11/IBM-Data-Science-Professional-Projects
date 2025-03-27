@@ -1,5 +1,5 @@
 # IBM Data Science Professional Projects
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="Alt text" width="300" height="200">
 
 # About the Course 
 Data science is one of the fastest-growing fields, with an increasing demand for professionals who can analyze data and translate insights into informed business decisions. The IBM Data Science Professional Certificate is designed to equip aspiring data scientists and machine learning enthusiasts with essential skills and hands-on experience to kickstart their careers.  
